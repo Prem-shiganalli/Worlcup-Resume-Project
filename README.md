@@ -9,7 +9,6 @@
 
 
  * Intoduction
- * Task
  * Data
  * Key Insights
 ## Summary
@@ -18,13 +17,6 @@
 When I started the analysis, I knew nothing about football (zilch) or how world cup tournaments were held. But took help from Google helped me understand the rules of football and how teams qualified for the World Cup
 
 This dataset contains all World Cup matches and players from 1930-2014. I wanted to draw insights from this data, and thankfully, Maven Analytics suggested questions that would allow me to do that.
-## Task
-
-The task is to build SQL query to answer 10 ad hoc requests for which the business needs insights and create a presentation to show the insights to the top-level management.
-
-Note
-
- Ad hoc is a Latin phrase that literally translates to 'for this' or 'for this situation'. Ad hoc requests are requests come unexpectedly without any prior planning. These requests often require immediate action.
 
 ## Data
 
